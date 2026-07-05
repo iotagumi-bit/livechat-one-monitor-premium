@@ -22,14 +22,25 @@ download the installer directly:
 
 ---
 
-## 🔑 License required
+## 🛒 Get a license
 
 Livechat One Monitor Premium is a **paid product**. The installer is free to
-download, but the app requires a valid license (order number) to activate. Each
-license is locked to one device.
+download, but the app requires a valid license (order number) to activate.
 
-The app checks for updates automatically — when a new version is available,
-you'll see a prompt with a download button.
+### 👉 Buy here: **[[vgen.co/Livechat One Monitor Premium](https://vgen.co/Rukanaeru/product/livechat-one-monitor-premium/3e26e1cc-c9d5-4d51-be5b-39ef5eb68bc4)]**
+
+After purchase you'll receive an order number — enter it in the app to activate.
+Each license is locked to one device.
+
+---
+
+## 🔑 About your license
+
+- One license = one device.
+- An internet connection is needed to activate and to check the license
+  periodically while the app runs.
+- The app checks for updates automatically — when a new version is available,
+  you'll see a prompt with a download button.
 
 ---
 
